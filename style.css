@@ -1,0 +1,20 @@
+h1{
+    color: lightcoral;
+}
+.fruits-container li{
+    color: yellowgreen;
+}
+#fruits-title{
+    color: black;
+}
+#places-title{
+    color: aquamarine;
+}
+.yellow-bg{
+    background-color: yellowgreen !important;
+    text-align: center;
+   
+}
+.large-text{
+    font-size: 40px;
+}
